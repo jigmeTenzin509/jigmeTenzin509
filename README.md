@@ -19,6 +19,10 @@
 <h3 align="left">Skills & Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
+<table>
+  <tr>
+    <td width="60%" valign="top">
+
 ### 🛠️ Projects & Interests
 
 - 📘 Creating **lesson plans and study materials**
@@ -26,19 +30,15 @@
 - 📊 Designing **Excel practical exercises**
 - 🌐 Teaching **online safety, media literacy, and search skills**
 
----
+    </td>
+    <td width="40%" align="center">
+
 ### ✨ Fun Touch
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" />
-</p>
----
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" />
 
-### 📫 Connect With Me
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jigmetenzin509&show_icons=true&locale=en&layout=compact" alt="jigmetenzin509" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jigmetenzin509&show_icons=true&locale=en" alt="jigmetenzin509" /></p>
+  </tr>
+</table>
 
 ---
 <h3 align="left">Connect with me:</h3>
@@ -52,6 +52,8 @@
 
 <p align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:9B59B6&height=200&section=footer&width=2000"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:9B59B6&height=200&section=footer&width=3000"
+    width="100%"
   />
 </p>
+
